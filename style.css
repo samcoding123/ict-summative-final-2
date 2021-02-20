@@ -1,0 +1,28 @@
+h1{
+
+color: solid;
+text-align: center;
+padding: 100px;
+
+}
+
+header{
+
+background-image: url('headerbackground.jpeg');
+
+
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+  color: white;
+  
+
+}
+
+.otherheader{
+
+  background-image: url('otherheaderbackground.jpg');
+
+}
